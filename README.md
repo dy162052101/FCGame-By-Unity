@@ -19,7 +19,9 @@ pc端按空格键进入游戏，Android版点击即可进入
 ![image](https://github.com/dy162052101/FCGame-By-Unity/blob/master/image/4.jpg)
 
 过渡界面（完成或死亡界面）
-
+（其他过度界面大体一样）
 ![image](https://github.com/dy162052101/FCGame-By-Unity/blob/master/image/1.jpg)
+
+疫情期间，闲来无事做个fc练个手，希望疫情快点过去啊！
 
 
